@@ -1,4 +1,4 @@
-# 🚀 AI Trend Saturation Analyzer
+#  AI Trend Saturation Analyzer
 
 Predict idea saturation before creators publish.
 
@@ -10,7 +10,7 @@ Instead of answering *“Is this trending?”*, we answer:
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Content creators often:
 - Enter overcrowded idea spaces
@@ -28,46 +28,46 @@ Our solution evaluates:
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-- ✅ Idea Saturation Score (Emerging / Growing / Peak / Decline)
-- ✅ Novelty Score (Semantic originality measurement)
-- ✅ Trend Lifecycle Prediction
-- ✅ Cross-platform content analysis
-- ✅ AI-powered Recommendation Engine (Create / Modify / Avoid)
-- ✅ Creator Decision Dashboard
+- Idea Saturation Score (Emerging / Growing / Peak / Decline)
+- Novelty Score (Semantic originality measurement)
+- Trend Lifecycle Prediction
+- Cross-platform content analysis
+- AI-powered Recommendation Engine (Create / Modify / Avoid)
+- Creator Decision Dashboard
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 The system follows a modular, cloud-native architecture with five layers:
 
-### 1️⃣ Presentation Layer
+### 1️1. Presentation Layer
 Handles user interaction via:
 - Dashboard UI  
 - API Gateway  
 - Authentication  
 
-### 2️⃣ Application Layer
+### 2. Application Layer
 Manages workflow using:
 - Analysis Orchestrator  
 - Recommendation Engine  
 
-### 3️⃣ AI/ML Processing Layer
+### 3. AI/ML Processing Layer
 Core intelligence layer including:
 - Embedding Service  
 - Clustering Engine  
 - Trend Analyzer  
 
-### 4️⃣ Data Integration Layer
+### 4. Data Integration Layer
 Connects to external platforms:
 - YouTube  
 - Instagram  
 - Reddit  
 - Other public content sources  
 
-### 5️⃣ Data Storage Layer
+### 5. Data Storage Layer
 Stores:
 - Query history  
 - Engagement metrics  
@@ -76,7 +76,7 @@ Stores:
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User submits a content idea.
 2. The system converts the idea into semantic embeddings.
@@ -88,14 +88,14 @@ Stores:
 
 ---
 
-## 📊 Example Output
+##  Example Output
 Saturation Score: 82% (High Competition)
 Novelty Score: 35% (Low Originality)
 Trend Stage: Peak
 Recommendation: Modify Angle
 ---
 
-## 🛠 Proposed Tech Stack
+##  Proposed Tech Stack
 
 **Frontend**
 - React / Next.js
@@ -120,7 +120,7 @@ Recommendation: Modify Angle
 
 ---
 
-## 📈 Roadmap
+##  Roadmap
 
 - Multi-platform saturation comparison
 - Enhanced predictive modeling
@@ -130,7 +130,7 @@ Recommendation: Modify Angle
 
 ---
 
-## 🎯 Target Users
+##  Target Users
 
 - YouTube Creators
 - Instagram Reels Creators
@@ -141,20 +141,20 @@ Recommendation: Modify Angle
 
 ---
 
-## 💡 Vision
+##  Vision
 
 To build the first AI-powered **Creative Opportunity Intelligence Engine** that enables creators to make data-driven decisions before content creation.
 
 ---
 
-## 🤝 Team
+##  Team
 
 Team Aura  
 AI for Media, Content & Digital Experiences
 
 ---
 
-## 📄 License
+##  License
 
 This project is currently for research and innovation purposes.  
 License details to be added.
